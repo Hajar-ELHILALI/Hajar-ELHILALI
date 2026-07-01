@@ -23,35 +23,34 @@ Computer engineering student specializing in **backend development with Java and
 **Languages**
 
 <picture>
-
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixelstack-three.vercel.app/api/stack?stack=java,dart,sql,javascript&theme=midnight">
-  <img src="https://pixelstack-three.vercel.app/api/stack?stack=java,dart,sql,javascript&theme=light" alt="Languages">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixelstack-three.vercel.app/api/stack?stack=java%2Cdart%2Csql%2Cjavascript&theme=midnight">
+  <img src="https://pixelstack-three.vercel.app/api/stack?stack=java%2Cdart%2Csql%2Cjavascript&theme=light" alt="Languages">
 </picture>
 
 **Backend — Spring Ecosystem**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixelstack-three.vercel.app/api/stack?stack=spring-boot,spring-security,spring-data-jpa,hibernate,rest-apis,jwt,maven&theme=midnight">
-  <img src="https://pixelstack-three.vercel.app/api/stack?stack=spring-boot,spring-security,spring-data-jpa,hibernate,rest-apis,jwt,maven&theme=light" alt="Backend — Spring Ecosystem">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixelstack-three.vercel.app/api/stack?stack=spring-boot%2Cspring-security%2Cspring-data-jpa%2Chibernate%2Crest-apis%2Cjwt%2Cmaven&theme=midnight">
+  <img src="https://pixelstack-three.vercel.app/api/stack?stack=spring-boot%2Cspring-security%2Cspring-data-jpa%2Chibernate%2Crest-apis%2Cjwt%2Cmaven&theme=light" alt="Backend — Spring Ecosystem">
 </picture>
 
 **Frontend**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixelstack-three.vercel.app/api/stack?stack=react,flutter,html,css&theme=midnight">
-  <img src="https://pixelstack-three.vercel.app/api/stack?stack=react,flutter,html,css&theme=light" alt="Frontend">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixelstack-three.vercel.app/api/stack?stack=react%2Cflutter%2Chtml%2Ccss&theme=midnight">
+  <img src="https://pixelstack-three.vercel.app/api/stack?stack=react%2Cflutter%2Chtml%2Ccss&theme=light" alt="Frontend">
 </picture>
 
 **Databases**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixelstack-three.vercel.app/api/stack?stack=postgres,mysql,redis,oracle&theme=midnight">
-  <img src="https://pixelstack-three.vercel.app/api/stack?stack=postgres,mysql,redis,oracle&theme=light" alt="Databases">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixelstack-three.vercel.app/api/stack?stack=postgres%2Cmysql%2Credis%2Coracle&theme=midnight">
+  <img src="https://pixelstack-three.vercel.app/api/stack?stack=postgres%2Cmysql%2Credis%2Coracle&theme=light" alt="Databases">
 </picture>
 
 **DevOps & Tools**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixelstack-three.vercel.app/api/stack?stack=docker,grafana,git,github&theme=midnight">
-  <img src="https://pixelstack-three.vercel.app/api/stack?stack=docker,grafana,git,github&theme=light" alt="DevOps & Tools">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixelstack-three.vercel.app/api/stack?stack=docker%2Cgrafana%2Cgit%2Cgithub&theme=midnight">
+  <img src="https://pixelstack-three.vercel.app/api/stack?stack=docker%2Cgrafana%2Cgit%2Cgithub&theme=light" alt="DevOps & Tools">
 </picture>
